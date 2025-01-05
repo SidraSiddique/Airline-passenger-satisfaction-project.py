@@ -1,0 +1,5 @@
+primaryColor = "#FFC0CB"  // Light pink
+backgroundColor = "#FFF5F7"  // Very light pink background
+secondaryBackgroundColor = "#FFCCE5"  // Soft pink
+textColor = "#000000"  // Black text for better readability
+font = "sans serif"  // Keep the font unchanged
